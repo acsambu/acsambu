@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acsambu
 - 👀 I’m interested in all things technology - mostly software though!
-- 🌱 I’m currently learning Python, and re-learning Android.
+- 🌱 I’m currently learning Python, C, and re-learning Android.
 - 💞️ I’m looking to collaborate on ... open to suggestions
 - 📫 How to reach me at angiesambu@gmail.com
 
